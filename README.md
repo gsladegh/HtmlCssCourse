@@ -1,2 +1,2 @@
-# ud_htmlcss
-Playing around
+# HtmlCssCourse
+Colt Steele's Course
